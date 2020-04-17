@@ -8,7 +8,7 @@ The grammatical activities in the series represent a blend of both functional an
 The exercises are designed to help students understand grammatical concepts in functional context reinforcing the learning of English in the classroom. Many of the exercises incorporate learner-centered activities that include various learning materials and help students get ample practice in applying grammatical concepts in real-life oral and written English.
 
 <p class="docsImage">
-  <img src="maxim.png" alt="KINDERFUN-Series-for-Pre-primers" />
+  <img src="/static/img/maxim.png" alt="KINDERFUN-Series-for-Pre-primers" />
 </p>
 
 We are really grateful to all the teachers and students of government and private schools who helped us in piloting the series. We feel privileged to extend our sincere thanks to the publisher who thought of publishing this series, and more importantly we are thankful to D N Mukhiya, who revised and edited the series in accordance with the English curriculum of Nepal, following a new approach to the teaching of current English usage.
