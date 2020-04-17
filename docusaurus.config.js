@@ -48,12 +48,12 @@ module.exports = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus"
+              label: "Facebook page",
+              href: "https://www.facebook.com/groups/145416872261596/"
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus"
+              label: "Website",
+              href: "https://dnmukhiya.com.np"
             }
           ]
         },
