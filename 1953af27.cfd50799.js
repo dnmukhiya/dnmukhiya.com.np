@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{101:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"kinder-fun-series","name":"kinder fun series","count":1,"permalink":"/blog/tags/kinder-fun-series"}')}}]);

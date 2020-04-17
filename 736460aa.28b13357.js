@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{117:function(o){o.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"green-books","name":"green books","count":1,"permalink":"/blog/tags/green-books"}')}}]);
