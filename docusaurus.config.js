@@ -1,7 +1,7 @@
 module.exports = {
   title: "D.N. Mukhiya",
   tagline: "I'm English Teacher and Trainer, TOT and ELT Textbook writer.",
-  url: "https://dnmukhiya.com.np",
+  url: "https://dnmukhiya.github.io",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "dnmukhiya", // Usually your GitHub org/user name.
